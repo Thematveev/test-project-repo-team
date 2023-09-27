@@ -1,3 +1,4 @@
+"""my module"""
 from assets import NAME, AGE
 
 print(NAME)
